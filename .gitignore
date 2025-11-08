@@ -1,0 +1,5 @@
+# GeoJSON files (not used, TopoJSON is preferred)
+*.json
+!package*.json
+!tsconfig*.json
+2025/
